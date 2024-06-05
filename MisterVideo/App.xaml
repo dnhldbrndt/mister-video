@@ -1,0 +1,36 @@
+﻿<Application x:Class="MisterVideo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MisterVideo"
+			 xmlns:viewModel="clr-namespace:MisterVideo.MVVM.ViewModel"
+			 xmlns:view="clr-namespace:MisterVideo.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+				<ResourceDictionary Source="Theme/TextboxTheme.xaml"/>
+				<ResourceDictionary Source="Theme/CellTemplate.xaml"/>
+			</ResourceDictionary.MergedDictionaries>
+
+			<DataTemplate DataType="{x:Type viewModel:HomeViewModel}">
+				<view:HomeView></view:HomeView>
+			</DataTemplate>
+			<DataTemplate DataType="{x:Type viewModel:DiscoveryViewModel}">
+				<view:DiscoveryView></view:DiscoveryView>
+			</DataTemplate>
+			<DataTemplate DataType="{x:Type viewModel:RentalViewModel}">
+				<view:RentalView></view:RentalView>
+			</DataTemplate>
+			<DataTemplate DataType="{x:Type viewModel:CustomerViewModel}">
+				<view:CustomerView></view:CustomerView>
+			</DataTemplate>
+			<DataTemplate DataType="{x:Type viewModel:MoviesViewModel}">
+				<view:MoviesView></view:MoviesView>
+			</DataTemplate>
+			<DataTemplate DataType="{x:Type viewModel:ProfileViewModel}">
+				<view:ProfileView></view:ProfileView>
+			</DataTemplate>
+		</ResourceDictionary>
+    </Application.Resources>
+</Application>
