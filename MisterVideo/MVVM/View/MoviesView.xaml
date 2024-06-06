@@ -2,12 +2,79 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			 xmlns:viewModel="clr-namespace:MisterVideo.MVVM.ViewModel"
              xmlns:local="clr-namespace:MisterVideo.MVVM.View"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800"
 			 Background="#afa3fa">
-    <Grid>
-            
-    </Grid>
+	<UserControl.DataContext>
+		<viewModel:MoviesViewModel/>
+	</UserControl.DataContext>
+	<StackPanel Margin="15,0,0,0">
+
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="50"/>
+				<RowDefinition Height="25"/>
+				<RowDefinition Height="35"/>
+				<RowDefinition />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition />
+			</Grid.ColumnDefinitions>
+			<TextBlock Text="List of Customers:"
+			   Grid.Row="0"
+			   Margin="0,10,0,0"
+			   FontSize="20" HorizontalAlignment="left" Width="748"/>
+			<Rectangle Grid.Row="1" Fill="Black" Height="1" Margin="0,0,0,0"/>
+			<Grid Name="customerTable" Grid.Row="3" >
+				<ListView
+				Name="TheList"
+				SelectionChanged="TheList_SelectionChanged"
+				  ItemsSource="{Binding Customers}"
+				  Background="#FFFCF8"
+				HorizontalAlignment="Center"
+				HorizontalContentAlignment="Center">
+					<ListView.View>
+						<GridView ColumnHeaderContainerStyle="{StaticResource CellTemplate}">
+							<GridViewColumn DisplayMemberBinding="{Binding Name}" Width="120" Header="Name"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Address}" Width="250" Header="Address"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Email}" Width="150" Header="Email"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Phone}" Width="150" Header="Phone"></GridViewColumn>
+
+						</GridView>
+					</ListView.View>
+
+				</ListView>
+			</Grid>
+			<StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center" Margin="0,0,0,10">
+				<StackPanel.Resources>
+					<Style TargetType="{x:Type Button}">
+						<Setter Property="Margin" Value="10,0,0,0" />
+						<Setter Property="Padding" Value="5,2,5,2" />
+					</Style>
+				</StackPanel.Resources>
+				<Button Name="btnAdd" Background="LightGray" 
+                BorderBrush="Black" BorderThickness="1" 
+			    Click="OnClick1" ClickMode="Hover">
+					Add
+				</Button>
+				<Button Name="btnUpdate" Background="LightGray" 
+                BorderBrush="Black" BorderThickness="1" 
+                Click="OnClick2" ClickMode="Press">
+					Update
+				</Button>
+				<Button Name="btnRemove" 
+                Click="OnClick3" ClickMode="Release">
+					Remove
+				</Button>
+				<Button Name="btnSelect" 
+                Click="OnClick4" ClickMode="Release">
+					Select
+				</Button>
+			</StackPanel>
+		</Grid>
+
+	</StackPanel>
 </UserControl>

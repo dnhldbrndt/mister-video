@@ -14,7 +14,7 @@ namespace MisterVideo.MVVM.Model
 {
 	internal class Movie
 	{
-		private int ID;
+		public int ID { get; set; }
 		public string Title { get; set; }
 		public int Year { get; set; }
 		public string Director { get; set; }

@@ -1,5 +1,7 @@
-﻿using System;
+﻿using MisterVideo.MVVM.Model;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +25,34 @@ namespace MisterVideo.MVVM.View
 		public MoviesView()
 		{
 			InitializeComponent();
+		}
+		void OnClick1(object sender, RoutedEventArgs e)
+		{
+			btnAdd.Background = Brushes.LightBlue;
+		}
+
+		void OnClick2(object sender, RoutedEventArgs e)
+		{
+			btnUpdate.Background = Brushes.LightBlue;
+		}
+
+		void OnClick3(object sender, RoutedEventArgs e)
+		{
+			btnRemove.Background = Brushes.LightBlue;
+
+		}
+		void OnClick4(object sender, RoutedEventArgs e)
+		{
+			btnSelect.Background = Brushes.LightBlue;
+		}
+		private void TheList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		{
+			Movie SelectedItem = (Movie)TheList.SelectedItem;
+
+			if (SelectedItem != null)
+			{
+				Trace.WriteLine(SelectedItem.Title);
+			}
 		}
 	}
 }
