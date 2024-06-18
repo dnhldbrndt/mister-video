@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|c:\\users\\admin\\source\\repos\\mistervideo\\mistervideo\\mvvm\\view\\moviesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\moviesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|c:\\users\\admin\\source\\repos\\mistervideo\\mistervideo\\mvvm\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\rentalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\rentalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|c:\\users\\admin\\source\\repos\\mistervideo\\mistervideo\\mvvm\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\view\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\view\\moviesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\moviesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|c:\\users\\admin\\source\\repos\\mistervideo\\mistervideo\\mvvm\\view\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\view\\moviesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|c:\\users\\admin\\source\\repos\\mistervideo\\mistervideo\\mvvm\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,20 +71,12 @@
       "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\viewmodel\\rentalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\viewmodel\\rentalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|C:\\Users\\Admin\\source\\repos\\MisterVideo\\mistervideo\\mvvm\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E2C3AEC-C939-4B35-B1B5-FA83EC39C2D9}|MisterVideo\\MisterVideo.csproj|solutionrelative:mistervideo\\mvvm\\model\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MisterVideo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -93,49 +89,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoviesView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
-              "RelativeToolTip": "MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:45:37.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MoviesView.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\MoviesView.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml",
-              "RelativeToolTip": "MisterVideo\\MVVM\\View\\MoviesView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-06T07:13:05.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CustomerViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\CustomerViewModel.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\CustomerViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\CustomerViewModel.cs",
               "RelativeToolTip": "MisterVideo\\MVVM\\ViewModel\\CustomerViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T11:29:02.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CustomerView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\CustomerView.xaml",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\CustomerView.xaml",
@@ -147,46 +118,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomerView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\CustomerView.xaml.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\CustomerView.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\CustomerView.xaml.cs",
               "RelativeToolTip": "MisterVideo\\MVVM\\View\\CustomerView.xaml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwDcAAAADAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T16:27:53.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Customer.cs",
-              "RelativeToolTip": "MisterVideo\\MVVM\\Model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAAvAAAA",
+              "DocumentIndex": 2,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Rental.cs",
+              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\Model\\Rental.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Rental.cs",
+              "RelativeToolTip": "MisterVideo\\MVVM\\Model\\Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:45:02.241Z",
+              "WhenOpened": "2024-04-07T15:44:49.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Movie.cs",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\Model\\Movie.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Movie.cs",
-              "RelativeToolTip": "MisterVideo\\MVVM\\Model\\Movie.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAATAAAA",
+              "DocumentIndex": 7,
+              "Title": "MoviesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
+              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
+              "RelativeToolTip": "MisterVideo\\MVVM\\View\\MoviesView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:19:37.193Z",
+              "WhenOpened": "2024-06-06T07:45:37.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MVDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\Core\\MVDatabase.cs",
               "RelativeDocumentMoniker": "MisterVideo\\Core\\MVDatabase.cs",
@@ -198,20 +169,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MoviesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\MoviesViewModel.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\MoviesViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\MoviesViewModel.cs",
               "RelativeToolTip": "MisterVideo\\MVVM\\ViewModel\\MoviesViewModel.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAADwvzwAAAAVAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T11:48:07.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
+              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
+              "RelativeToolTip": "MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:46:32.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml",
+              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\MoviesView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\MoviesView.xaml",
+              "RelativeToolTip": "MisterVideo\\MVVM\\View\\MoviesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T07:13:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Customer.cs",
+              "RelativeToolTip": "MisterVideo\\MVVM\\Model\\Customer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:45:02.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProfileViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\ProfileViewModel.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\ProfileViewModel.cs",
@@ -223,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DiscoveryView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\DiscoveryView.xaml",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\DiscoveryView.xaml",
@@ -234,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RentalView.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\View\\RentalView.xaml",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\View\\RentalView.xaml",
@@ -245,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MenuButtonTheme.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\Theme\\MenuButtonTheme.xaml",
               "RelativeDocumentMoniker": "MisterVideo\\Theme\\MenuButtonTheme.xaml",
@@ -257,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CellTemplate.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\Theme\\CellTemplate.xaml",
               "RelativeDocumentMoniker": "MisterVideo\\Theme\\CellTemplate.xaml",
@@ -269,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\MainViewModel.cs",
@@ -281,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MovieViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\MovieViewModel.cs",
               "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\MovieViewModel.cs",
@@ -290,18 +299,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:59:47.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RentalViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
-              "RelativeToolTip": "MisterVideo\\MVVM\\ViewModel\\RentalViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T11:46:32.354Z"
             },
             {
               "$type": "Document",
@@ -330,18 +327,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Rental.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Rental.cs",
-              "RelativeDocumentMoniker": "MisterVideo\\MVVM\\Model\\Rental.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MVVM\\Model\\Rental.cs",
-              "RelativeToolTip": "MisterVideo\\MVVM\\Model\\Rental.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAIA6wDwAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:44:49.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "MisterVideo",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MisterVideo\\MisterVideo\\MisterVideo.csproj",
               "RelativeDocumentMoniker": "MisterVideo\\MisterVideo.csproj",

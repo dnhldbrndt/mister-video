@@ -23,7 +23,7 @@
 			<Grid.ColumnDefinitions>
 				<ColumnDefinition />
 			</Grid.ColumnDefinitions>
-			<TextBlock Text="List of Customers:"
+			<TextBlock Text="List of Movies:"
 			   Grid.Row="0"
 			   Margin="0,10,0,0"
 			   FontSize="20" HorizontalAlignment="left" Width="748"/>
@@ -32,17 +32,18 @@
 				<ListView
 				Name="TheList"
 				SelectionChanged="TheList_SelectionChanged"
-				  ItemsSource="{Binding Customers}"
+				  ItemsSource="{Binding Movies}"
 				  Background="#FFFCF8"
 				HorizontalAlignment="Center"
 				HorizontalContentAlignment="Center">
 					<ListView.View>
 						<GridView ColumnHeaderContainerStyle="{StaticResource CellTemplate}">
-							<GridViewColumn DisplayMemberBinding="{Binding Name}" Width="120" Header="Name"></GridViewColumn>
-							<GridViewColumn DisplayMemberBinding="{Binding Address}" Width="250" Header="Address"></GridViewColumn>
-							<GridViewColumn DisplayMemberBinding="{Binding Email}" Width="150" Header="Email"></GridViewColumn>
-							<GridViewColumn DisplayMemberBinding="{Binding Phone}" Width="150" Header="Phone"></GridViewColumn>
-
+							<GridViewColumn DisplayMemberBinding="{Binding Title}" Width="120" Header="Title"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Year}" Width="250" Header="Year"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Director}" Width="150" Header="Director"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Actors}" Width="150" Header="Actors"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Language}" Width="150" Header="Language"></GridViewColumn>
+							<GridViewColumn DisplayMemberBinding="{Binding Genre}" Width="150" Header="Genre"></GridViewColumn>
 						</GridView>
 					</ListView.View>
 

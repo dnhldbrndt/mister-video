@@ -12,7 +12,7 @@ namespace MisterVideo.MVVM.ViewModel
 {
 	internal class MoviesViewModel : ObservableObject
 	{
-		List<Movie> Movies { get; set; }
+		public List<Movie> Movies { get; set; }
 		public MoviesViewModel()
 		{
 			Movies = new List<Movie>();

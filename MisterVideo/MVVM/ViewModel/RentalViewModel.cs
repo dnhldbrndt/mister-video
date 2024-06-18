@@ -10,7 +10,7 @@ namespace MisterVideo.MVVM.ViewModel
 {
 	internal class RentalViewModel : ObservableObject
 	{
-		List<Rental> Rentals { get; set; }
+		public List<Rental> Rentals { get; set; }
 		public string Test {get; set;}	
 		public RentalViewModel() 
 		{
